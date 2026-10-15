@@ -1,12 +1,21 @@
-## Hi there 👋
+# Hyperion
 
-<!--
+Hyperion is the platform layer behind Chronos.
 
-**Here are some ideas to get you started:**
+A person is one account across every business built on it. A business keeps
+its own payments account. Invoicing and consent records are built in.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Chronos
+
+Chronos is the operating system for the gym floor. It holds schedule, roster,
+money, and programming in one instrument for independent strength gyms whose
+owner still coaches.
+
+Chronos is in development in Hungary.
+
+## Technology
+
+TypeScript across the stack: NestJS on the API, Next.js on the web, Expo on
+mobile, PostgreSQL with Drizzle for data.
+
+Hyperion Platform, Hungary
