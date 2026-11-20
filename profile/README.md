@@ -1,15 +1,14 @@
 # Hyperion
 
-Hyperion is the platform layer behind Chronos.
+One account for a person across every business built on Hyperion.
+Each business keeps its own payments account. Invoicing and consent records are built in.
 
-A person is one account across every business built on it. A business keeps
-its own payments account. Invoicing and consent records are built in.
+Hyperion is the platform layer behind Chronos.
 
 ## Chronos
 
-Chronos is the operating system for the gym floor. It holds schedule, roster,
-money, and programming in one instrument for independent strength gyms whose
-owner still coaches.
+For independent strength gyms whose owner still coaches, Chronos is the operating system for the gym floor.
+Schedule, roster, money, and programming sit in one instrument.
 
 Chronos is in development in Hungary.
 
